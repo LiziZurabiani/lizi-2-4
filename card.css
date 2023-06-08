@@ -1,0 +1,17 @@
+body{
+    background-color: #1F314F;
+}
+
+.box1{
+    width: 320px;
+    height: 497px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.box2{
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    background-color: #1F314F;
+}
